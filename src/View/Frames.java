@@ -34,6 +34,10 @@ import javax.swing.border.EmptyBorder;
 import Controller.Search;
 import Model.Pills;
 
+/** FOR FUTURE DEVELOPMENT. A lot of the JComponents should be moved to a different class in the view package for better readability. .  
+  * Due to extremely narrow time constraints and other workplace priorities, a significant portion of this class
+  * was written on paper and copied onto the compiler. Many features needed to be implemented fast for the client
+  * because of workplace events outside of my control. **/
 
 public class Frames extends JFrame implements ActionListener
 {
